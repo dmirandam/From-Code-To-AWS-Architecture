@@ -1,2 +1,2 @@
 # From code to AWS architecture
-Pipeline to deploy container-based architecture in aws (In process xd) 
+Pipeline to implement container-based architecture in aws just by pushing to a repo (In process xd) 
